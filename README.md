@@ -93,6 +93,6 @@ Feel free to fork the repo and submit a pull request.
 
 👨‍💻 Author
 Abdullah Al Rahat
-💬 Let’s connect: LinkedIn
+💬 Let’s connect: www.linkedin.com/in/abdullah-al-rahat-5ab878316
 
 
